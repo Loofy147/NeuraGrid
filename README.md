@@ -1,1 +1,1 @@
-# Nearagrid
+# NeuraGrid
